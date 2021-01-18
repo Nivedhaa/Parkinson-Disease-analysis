@@ -6,14 +6,14 @@ Traditional diagnosis of Parkinson’s Disease involves a clinician taking a neu
 
 ### ATTRIBUTE INFORMATION:
 
-<b>name</b> - ASCII subject name and recording number
-<b>MDVP:Fo(Hz)</b> - Average vocal fundamental frequency
-<b>MDVP:Fhi(Hz)</b> - Maximum vocal fundamental frequency
-<b>MDVP:Flo(Hz)</b> - Minimum vocal fundamental frequency
-<b>MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP</b> - Several measures of variation in fundamental frequency
-<b>MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA</b> - Several measures of variation in amplitude
-<b>NHR,HNR</b> - Two measures of ratio of noise to tonal components in the voice
-<b>status</b> - Health status of the subject (one) - Parkinson's, (zero) - healthy
-<b>RPDE,D2</b> - Two nonlinear dynamical complexity measures
-<b>DFA</b> - Signal fractal scaling exponent
-<b>spread1,spread2,PPE</b> - Three nonlinear measures of fundamental frequency variation
+<b>name</b> - ASCII subject name and recording number<br>
+<b>MDVP:Fo(Hz)</b> - Average vocal fundamental frequency<br>
+<b>MDVP:Fhi(Hz)</b> - Maximum vocal fundamental frequency<br>
+<b>MDVP:Flo(Hz)</b> - Minimum vocal fundamental frequency<br>
+<b>MDVP:Jitter(%),MDVP:Jitter(Abs),MDVP:RAP,MDVP:PPQ,Jitter:DDP</b> - Several measures of variation in fundamental frequency<br>
+<b>MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA</b> - Several measures of variation in amplitude<br>
+<b>NHR,HNR</b> - Two measures of ratio of noise to tonal components in the voice<br>
+<b>status</b> - Health status of the subject (one) - Parkinson's, (zero) - healthy<br>
+<b>RPDE,D2</b> - Two nonlinear dynamical complexity measures<br>
+<b>DFA</b> - Signal fractal scaling exponent<br>
+<b>spread1,spread2,PPE</b> - Three nonlinear measures of fundamental frequency variation<br>
